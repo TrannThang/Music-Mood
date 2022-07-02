@@ -36,10 +36,11 @@ const musics = [
             file:"31072.mp3",
             image:"https://images.unsplash.com/photo-1624749076747-79f933b8b671?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
         },
+        
         {
             id:2,
-            title:"Tình đẹp đến mấy cũng tàn",
-            file:"TÌNH ĐẸP ĐẾN MẤY CŨNG TÀN  NHƯ VIỆT  OFFICIAL MUSIC VIDEO.mp3",
+            title:"Cao ốc 20",
+            file:"caooc20.mp3",
             image:"https://images.unsplash.com/photo-1590073844006-33379778ae09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
         },
 
@@ -63,8 +64,8 @@ const musics = [
         },
         {
             id:6,
-            title:"Anh từng cố gắng",
-            file:"NHẬT PHONG  Anh Từng Cố Gắng  Official MV.mp3",
+            title:"Bao tiền một mớ bình yên",
+            file:"tienbao.mp3",
             image:"https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
@@ -79,6 +80,19 @@ const musics = [
             file:"Chỉ Vì Quá Yêu Em  Huy Vạc x Tiến Nguyễn.mp3",
             image:"https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
+        {
+            id:9,
+            title:"Răng khôn",
+            file:"rangkhon.mp3",
+            image:"https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+            id:10,
+            title:"Anh đánh rơi người yêu này",
+            file:"danhroiny.mp3",
+            image:"https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
+
         
 
 
